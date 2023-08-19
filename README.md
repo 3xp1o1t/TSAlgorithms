@@ -2,6 +2,8 @@
 
 ## TypeScript y Jest
 
+[Setup TypeScript with Jest](https://basarat.gitbook.io/typescript/intro-1/jest)
+
 ### Setup:
 
 - npm init -y
